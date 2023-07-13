@@ -1,0 +1,8 @@
+
+python-dotenv
+flask
+openai
+
+fastapi
+
+sse_starlette
